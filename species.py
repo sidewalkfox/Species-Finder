@@ -1,0 +1,13 @@
+#Put the clip name and species in this exact way (spelling and capitalization counts but not order)
+Ace = "Fox"
+Ash = "Coyote"
+Beta = "Dragon, Wolf"
+Blu = "Dragon"
+Caffeine = "Fox"
+Chip = "Cat"
+Crash = "Wolf"
+Foofi = "Fox"
+Majira = "Fox"
+Nos = "Hyena"
+Spoctor = "Dragon"
+Stormi = "Fox, Wolf"
