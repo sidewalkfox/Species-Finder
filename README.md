@@ -1,6 +1,6 @@
 # species-finder
 ### Features
-- Analyzes and reads audio files to attempt to find species.
+- Analyzes audio files to infer a species.
 - Audio playback.
 
 **To install**
@@ -46,4 +46,4 @@ This button will play the selected audio file.\
 *The program may become unresponsive, this is normal, it will become responsive once the audio file is over.*
 
 **Troubleshooting**\
-Is everything spelled right? Are your sounds `.wav`? Are your images in `.png`? Do your sounds have non-vocal background noise? In an error doesn't show up, check the console. It gives a good idea on what happened.
+Is everything spelled right? Are your sounds `.wav`? Are your images in `.png`? Do your sounds have non-vocal background noise? If an error doesn't show up, check the console.
